@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/FullstackLaboratory/",
+    "build": "vite build --base=/108_js_Jlomka54/",
     "preview": "vite preview"
   },
   "devDependencies": {
